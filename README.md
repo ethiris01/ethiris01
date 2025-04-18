@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I’m Ethiris — a full-stack developer who loves building thoughtful, user-focused applications.<br>🛠️ Skilled in the MERN stack, with experience in building scalable features and integrating cloud-based solutions.<br>📱 Also into crafting clean, responsive mobile apps with Expo and NativeWind.<br>⚡ I’m all about clean code, intuitive design, and solving real problems with tech.
 
 
